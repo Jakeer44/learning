@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: rgb(73, 9, 222);
+}
+
+.s1{
+    height: 100px;
+    width: 100%;
+background-color: rgb(147, 70, 93);
+
+}
+.s1 ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding: 20px;
+}
